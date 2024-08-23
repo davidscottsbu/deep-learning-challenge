@@ -15,3 +15,5 @@ Compiling, Training, and Evaluating the Model
 
 Were you able to achieve the target model performance?
 ![image](https://github.com/user-attachments/assets/2d363782-c6c6-41e5-a831-0c8bf12ffaf0)
+
+In summary the model had an accuracy of 53%.  I think changing the variables could increase the models accuracy.
